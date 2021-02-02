@@ -35,4 +35,4 @@ const doMath = (x, y) => {
     return result;
 }
 const result6 = doMath(8, 6);
-console.log(result6);
+console.log(result6);    
